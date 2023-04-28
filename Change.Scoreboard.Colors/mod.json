@@ -1,6 +1,0 @@
-{
-	"Name" : "ඞChange.Scoreboard.Colors",
-	"Description" : "-Changes scoreboard colors. \nTo change the colors to your liking use these values:\nglobal const int FRIENDLY_, global const int ENEMY_, global const int LOCAL_ & global const int PARTY_ in sh_consts.gnut.",
-	"Version": "ඞ1.0.0",
-	"LoadPriority": 10,
-}

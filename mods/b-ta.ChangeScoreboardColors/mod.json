@@ -1,0 +1,6 @@
+{
+    "Name" : "ඞb-ta.ChangeScoreboardColors",
+    "Description" : "-Changes the colors of the scoreboard.\nTo change the colors to your liking use these values: global const int FRIENDLY_, global const int ENEMY_ and global const int LOCAL_ in sh_consts.gnut.\nCredit: noskill.gitbook.io.\nbegin-theadventure 2023",
+    "Version": "ඞ1.0.1",
+    "LoadPriority": 9999
+}

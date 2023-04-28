@@ -1,0 +1,7 @@
+{
+    "name": "ChangeScoreboardColors",
+    "version_number": "1.0.1",
+    "website_url": "https://github.com/begin-theadventure/N-ChangeScoreboardColors",
+    "description": "Changes the colors of the scoreboard.",
+    "dependencies": []
+}
